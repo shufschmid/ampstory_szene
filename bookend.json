@@ -1,0 +1,48 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    "facebook",
+    "twitter",
+    "whatsapp",
+    "email"
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "Weitere Informationen"
+    },
+    {
+      "type": "landscape",
+      "title": "Szene isch Basel auf Youtube",
+      "url": "https://www.youtube.com/watch?v=C-Up8MoaRRA",
+      "image": "assets/szeneaufyoutube.JPG"
+    },
+    {
+      "type": "small",
+      "title": "Warum der Aufstieg des Rappers Haftbefehl für junge Migrant*innen so wichtig ist - trotz seiner sexistischen Sprache.",
+      "url": "https://www.spiegel.de/kultur/musik/haftbefehl-als-vorbild-fuer-migranten-weil-er-unsere-sprache-spricht-a-d8f8a878-7e61-4073-bca8-58784a49daf1",
+      "image": "assets/haftbefehlcover.jpg"
+    },
+    {
+      "type": "small",
+      "title": "Ein Essay über «Rap und Gegenidentitäten in der Mehrheitsgesellschaft».",
+      "url": "https://www.bpb.de/apuz/265102/rap-und-gegenidentitaeten-in-der-migrationsgesellschaft?p=all",
+      "image": "assets/rap.JPG"
+    },
+    {
+      "type": "small",
+      "title": "Der Account Szene isch Basel ist mittlerweile unter leicht abgeändertem Kürzel wieder da.",
+      "url": "https://www.instagram.com/_szene_isch_basel/?hl=de",
+      "image": "assets/szene.JPG"
+    },
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "Werde jetzt Bajour-Member!",
+          "url": "https://unterstuetzen.bajour.ch/"
+        }
+      ]
+    }
+  ]
+}
